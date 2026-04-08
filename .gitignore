@@ -1,0 +1,8 @@
+# Local managed repos (not tracked in this meta repo)
+repos/
+
+# Generated outputs
+output/
+
+# Local notes/logs
+*.log
